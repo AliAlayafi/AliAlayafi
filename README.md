@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ali.alayafiii@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1x9lyfAlVgBawdUjnfPyoq2lx1jJ13Ytb/view](CV)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1x9lyfAlVgBawdUjnfPyoq2lx1jJ13Ytb/view)
 
 - ⚡ Fun fact **I’ve been coding since 2019, long before graduating in 2025**
 
