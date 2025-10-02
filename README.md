@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alialayafi&label=Profile%20views&color=0e75b6&style=flat" alt="alialayafi" /> </p>
 
-- 🔭 I’m currently working on [MatchResume (Coming Soon)](https://ali-alayyafi.site/)
+- 🔭 I’m currently working on [ResumeMatch 🔥](https://resume-match-psi.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [https://ali-alayyafi.site/](https://ali-alayyafi.site/)
 
@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [CV](https://drive.google.com/file/d/1x9lyfAlVgBawdUjnfPyoq2lx1jJ13Ytb/view)
 
-- ⚡ Fun fact **I’ve been coding since 2019, long before graduating in 2025**
+- ⚡ Fun fact **I’ve been coding since 2018, long before graduating in 2025**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
