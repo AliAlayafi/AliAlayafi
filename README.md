@@ -1,7 +1,7 @@
 ![](https://i.postimg.cc/kG7RsFPg/github-header-banner.png)
 
 
-<h3 align="center">![Profile views](https://komarev.com/ghpvc/?username=AliAlayafi&label=Profile%20views&color=0e75b6&style=flat)</h3>
+<p align="center">![Profile views](https://komarev.com/ghpvc/?username=AliAlayafi&label=Profile%20views&color=0e75b6&style=flat)</p>
  
  **<h3 align="left">skilled in building scalable, user-friendly applications across both frontend and backend.</h3>**
 - 📂 Portfolio: **<a href="https://ali-alayyafi.site/" target="_blank">https://ali-alayyafi.site/</a>**
