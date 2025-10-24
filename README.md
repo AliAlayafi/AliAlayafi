@@ -1,6 +1,6 @@
 [![github-header-banner.png](https://i.postimg.cc/kG7RsFPg/github-header-banner.png)](https://postimg.cc/cg5J43Jp)
 
-<h3 align="center">A passionate Full-Stack Developer skilled in building scalable, user-friendly applications across both frontend and backend.</h3>
+<h3 align="center">skilled in building scalable, user-friendly applications across both frontend and backend.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alialayafi&label=Profile%20views&color=0e75b6&style=flat" alt="alialayafi" /> </p>
 
